@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Miestilo;
+    src: url("../fuentes/mabook01.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Mitexto;
+    src: url("../fuentes/mabook02.ttf");
+    font-weight: 900;
+}
+
+h1{
+    font-family: Miestilo;
+    font-weight: 500;
+}
+
+h2{
+    font-family: Mitexto;
+    font-weight: 900;
+}
+
+@media screen {
+
+}
