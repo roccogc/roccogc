@@ -13,11 +13,13 @@
 h1{
     font-family: Miestilo;
     font-weight: 500;
+    color: aqua;
 }
 
 h2{
     font-family: Mitexto;
     font-weight: 900;
+    color: crimson;
 }
 
 @media screen {
